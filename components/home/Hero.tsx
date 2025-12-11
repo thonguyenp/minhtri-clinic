@@ -6,7 +6,7 @@ export default function Hero() {
     <Box
       sx={{
         height: "90vh",
-        backgroundImage: "url('https://images.unsplash.com/photo-1588776814546-3d9d61d2ff83?fit=crop&w=1600&q=80')",
+        backgroundImage: "url('https://images.unsplash.com/photo-1586773860418-d37222d8fce3?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         display: "flex",
