@@ -1,20 +1,31 @@
-# Node
-node_modules/
+# Dependencies
+/node_modules
+
+# Output
+/.next
+/out
+
+# System
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Build
-.next/
-out/
+# Typescript
+*.tsbuildinfo
 
-# Env
-.env
-.env.local
-.env.development
-.env.production
+# Editor
+.vscode
+.idea
 
-# Misc
-.DS_Store
-*.swp
+# Local data
+/minhtri_bookings.json
